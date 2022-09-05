@@ -1,0 +1,9 @@
+/* this is where the external styles for the page live */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
